@@ -1,6 +1,7 @@
 const componentWithMDXScope = require('gatsby-plugin-mdx/component-with-mdx-scope');
 
-const path = require('path');
+const path = "/help";
+//require('path');
 
 const startCase = require('lodash.startcase');
 
